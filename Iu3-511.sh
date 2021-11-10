@@ -18,9 +18,9 @@ cp /usr/share/applications/putty.desktop /home/user/Рабочий\ стол/
 cp /usr/share/applications/filezilla.desktop /home/user/Рабочий\ стол/
 chmod 777 /home/user/Рабочий\ стол/putty.desktop && chmod 777 /home/user/Рабочий\ стол/filezilla.desktop
 
-cd cisco/
-tar xvf control.tar.xz -C /
-tar xvf data.tar.xz -C /
+#cd cisco/
+#tar xvf control.tar.xz -C /
+#tar xvf data.tar.xz -C /
 cp /usr/share/applications/cisco-pt.desktop /home/user/Рабочий\ стол/
 chmod 777 /home/user/Рабочий\ стол/cisco-pt.desktop
 
