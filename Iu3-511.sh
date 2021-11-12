@@ -24,5 +24,5 @@ chmod 777 /home/user/Рабочий\ стол/putty.desktop && chmod 777 /home/u
 cp /usr/share/applications/cisco-pt.desktop /home/user/Рабочий\ стол/
 chmod 777 /home/user/Рабочий\ стол/cisco-pt.desktop
 
-apt-get install screen
+apt-get install screen minicom traceroute telnet
 
